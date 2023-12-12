@@ -8,7 +8,7 @@ setup(
     description="This project conducts a detailed analysis of gun violence incidents across the United States and examines their correlation with firearm background checks, aiming to unearth patterns and inform policy decisions.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/monster2920/Gun_Violence_Group_Project",
+    url="https://github.com/Manojkumar8899/Gun_Violence_Culture_Final_Project",
     packages=find_packages(),
     install_requires=[
         "requests>=2.25.1",
