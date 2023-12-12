@@ -20,7 +20,7 @@ This project conducts a detailed analysis of gun violence incidents across the U
 ## Installation
 Clone the repository and install using pip:
 bash
-git clone https://github.com/monster2920/Gun_Violence_Group_Project
+git clone [https://github.com/Manojkumar8899/Gun_Violence_Culture_Final_Project]
 cd gun-violence-analysis
 pip install .
 
